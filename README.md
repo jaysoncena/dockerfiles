@@ -1,0 +1,2 @@
+# Dockerfiles
+- salt-master
